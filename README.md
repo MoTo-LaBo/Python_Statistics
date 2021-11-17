@@ -5,11 +5,16 @@
 ### 統計学
 1. **記述統計**
    - 1-1. [data set](01_descriptive_st/00_data_set.ipynb)
-   - 1-2. [分布 (distribution)](01_descriptive_st/01_distribution.ipynb)
-   - 1-3. [記述・推測統計(代表値：平均値・中央値・最頻値)](01_descriptive_st/02_des_inf_st.ipynb)
-2. ２変数関数の記述統計]()
 
-3. [確率]()
+   - 1-2. [分布 (distribution)](01_descriptive_st/01_distribution.ipynb)
+
+   - 1-3. [記述・推測統計(代表値：平均値・中央値・最頻値)](01_descriptive_st/02_des_inf_st.ipynb)
+
+   - 1-4. [散布度]()
+
+2. **２変数関数の記述統計**
+
+3. 確率
 
 4. [正規分布と標準化]()
 
