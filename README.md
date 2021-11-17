@@ -16,7 +16,7 @@
 ### docker image 一覧表示
     docker images
 ### docker image から container 起動
-    docker run -v ~Dropbox/udemy/statistics:/work -p 1212:8888 --name st-env datascientistus/ds-python-env2
+    docker run -v ~/Dropbox/udemy/statistics:/work -p 1212:8888 --name st-env datascientistus/ds-python-env2
 - 今回は `1212:8888` という `port` の上で動くようにしてある `default の Jupyter の port の番号は 8888`
 - container の　**port を Host に繋げてあげないと動かない。**　なので host 側の localhost.`1212` に接続すると container `8888` に届くようになっている
 ### container 一覧表示
