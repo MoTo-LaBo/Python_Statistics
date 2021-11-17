@@ -12,7 +12,11 @@
 
 ### Docker の基本操作
 ### docker pull
-    docker pull datascientistus/ds-python-env2
+    docker pull datascientistus/ds-python-en2
+- **実際 pull はいらない！笑**
+  - 形式として、一連の流れてして一応覚えておく
+
+  - `docker run ...` の command 1行を入力するれば自動で　**datascientistus/ds-python-env2　を pull してくれる**
 ### docker image 一覧表示
     docker images
 ### docker image から container 起動
